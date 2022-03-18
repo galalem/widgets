@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.galalem:graphics:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/12f705b3934d59f42734621594c47454/graphics-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/12f705b3934d59f42734621594c47454/graphics-1.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/12f705b3934d59f42734621594c47454/graphics-1.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.galalem/graphics/1.0.2/44d710a3e365f6774f10f747b7150c8dfd1153c4/graphics-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

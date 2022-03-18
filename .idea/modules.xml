@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GE_Libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/GE_Libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Async/GE_Libraries.Async.iml" filepath="$PROJECT_DIR$/.idea/modules/Async/GE_Libraries.Async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Dialogs/GE_Libraries.Dialogs.iml" filepath="$PROJECT_DIR$/.idea/modules/Dialogs/GE_Libraries.Dialogs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Graphics/GE_Libraries.Graphics.iml" filepath="$PROJECT_DIR$/.idea/modules/Graphics/GE_Libraries.Graphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Widgets/GE_Libraries.Widgets.iml" filepath="$PROJECT_DIR$/.idea/modules/Widgets/GE_Libraries.Widgets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GE_Libraries.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GE_Libraries.app.iml" />
+    </modules>
+  </component>
+</project>

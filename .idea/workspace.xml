@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="947b4191-b1a1-4771-b55e-58c24e80d4ae" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/Async/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/androidTest/java/com/galalem/async/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/Downloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/FileDownloadTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/FileDownloadWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/IDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/JSONDownloadWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/StringDownloadTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/main/java/com/galalem/async/StringDownloadWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Async/src/test/java/com/galalem/async/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/src/androidTest/java/com/galalem/dialogs/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/src/main/java/com/galalem/dialogs/Dialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/src/main/res/drawable/dialogs_background_galalem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dialogs/src/test/java/com/galalem/dialogs/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/libs/galalem-graphics-1.0.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/src/androidTest/java/com/galalem/widgets/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/src/main/java/com/galalem/widgets/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Widgets/src/test/java/com/galalem/widgets/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[VirtualDevicePath@C:\Users\PC\.android\avd\Pixel_2_API_26.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26T6HZ2a6MLJRrooUMPbr0k7faP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android-custom-viewD:/GalalemEntertainment/GELibraries/Widgets/src/main/java/com/galalem/widgets/Button.java_SELECTED" value="Button" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Graphics" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GalalemEntertainment\GELibraries\Widgets\src\main\res\values" />
+      <recent name="D:\GalalemEntertainment\GELibraries\Graphics\src\main\java\com\galalem\graphics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GalalemEntertainment\GELibraries\Widgets\src\main\java\com\galalem\widgets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android JUnit.ExampleUnitTest.addition_isCorrect">
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GE_Libraries.Async" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galalem.async.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galalem.async" />
+      <option name="MAIN_CLASS_NAME" value="com.galalem.async.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="addition_isCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.regEx" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GE_Libraries.Graphics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.galalem.graphics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.galalem.graphics" />
+      <option name="MAIN_CLASS_NAME" value="com.galalem.graphics.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="regEx" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="GE_Libraries.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.ExampleUnitTest.addition_isCorrect" />
+        <item itemvalue="Android JUnit.ExampleUnitTest.regEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="947b4191-b1a1-4771-b55e-58c24e80d4ae" name="Default Changelist" comment="" />
+      <created>1647435142467</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647435142467</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1647526331064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647526331064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1647605330913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647605330913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/GalalemEntertainment/GELibraries/Graphics" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="188" key="#Notifications" timestamp="1647518602265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1647518602265" />
+    <state x="303" y="112" key="#PSD" timestamp="1647612919914">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="303" y="112" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1647612919914" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1647554869446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1647554869446" />
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog" timestamp="1647467056985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="119" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1647467056985" />
+    <state x="305" y="0" key="CommitChangelistDialog2" timestamp="1647605270744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="305" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1647605270744" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1647518866069">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1647518866069" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1647516165307">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1647516165307" />
+    <state x="409" y="262" width="399" height="204" key="Github.ShareDialog" timestamp="1647604852949">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="262" width="399" height="204" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1647604852949" />
+    <state x="423" y="69" key="Github.UntrackedFilesDialog" timestamp="1647522066846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="423" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1647522066846" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1647600460525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1647600460525" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1647600460525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1647600460525" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1647600460524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1647600460524" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1647600460525">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1647600460525" />
+    <state x="413" y="66" key="RollbackChangesDialog" timestamp="1647519276035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1647519276035" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1647610197977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1647610197977" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1647605291843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1647605291843" />
+    <state x="478" y="255" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1647605110590">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="478" y="255" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1647605110590" />
+    <state x="568" y="231" width="530" height="292" key="psd.add.jar.dependency.panel.dimension" timestamp="1647470301342">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="568" y="231" width="530" height="292" key="psd.add.jar.dependency.panel.dimension/0.0.1366.728@0.0.1366.728" timestamp="1647470301342" />
+    <state x="374" y="110" key="psd.add.library.dependency.panel.dimension" timestamp="1647610642456">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="374" y="110" key="psd.add.library.dependency.panel.dimension/0.0.1366.728@0.0.1366.728" timestamp="1647610642456" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1647463629682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1647463629682" />
+  </component>
+</project>
