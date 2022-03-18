@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Button">
+        <attr name="defaultGradientStartColor" format="color"/>
+        <attr name="defaultGradientCenterColor" format="color"/>
+        <attr name="defaultGradientEndColor" format="color"/>
+        <attr name="defaultGradientType" format="flags">
+            <flag name="linear" value="0x00"/>
+            <flag name="radial" value="0x01"/>
+            <flag name="sweep" value="0x02"/>
+        </attr>
+        <attr name="defaultGradientOrientation" format="flags">
+            <flag name="topToBottom" value="0x01"/>
+            <flag name="topRightToBottomLeft" value="0x03"/>
+            <flag name="rightToLeft" value="0x02"/>
+            <flag name="bottomRightToTopLeft" value="0x0a"/>
+            <flag name="bottomToTop" value="0x08"/>
+            <flag name="bottomLeftToTopRight" value="0x0c"/>
+            <flag name="leftToRight" value="0x04"/>
+            <flag name="topLeftToBottomRight" value="0x05"/>
+        </attr>
+
+        <attr name="pressedGradientStartColor" format="color"/>
+        <attr name="pressedGradientCenterColor" format="color"/>
+        <attr name="pressedGradientEndColor" format="color"/>
+        <attr name="pressedGradientType" format="flags">
+            <flag name="linear" value="0x00"/>
+            <flag name="radial" value="0x01"/>
+            <flag name="sweep" value="0x02"/>
+        </attr>
+        <attr name="pressedGradientOrientation" format="flags">
+            <flag name="topToBottom" value="0x01"/>
+            <flag name="topRightToBottomLeft" value="0x03"/>
+            <flag name="rightToLeft" value="0x02"/>
+            <flag name="bottomRightToTopLeft" value="0x0a"/>
+            <flag name="bottomToTop" value="0x08"/>
+            <flag name="bottomLeftToTopRight" value="0x0c"/>
+            <flag name="leftToRight" value="0x04"/>
+            <flag name="topLeftToBottomRight" value="0x05"/>
+        </attr>
+        <attr name="borderRadius" format="dimension" />
+    </declare-styleable>
+</resources>

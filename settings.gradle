@@ -1,0 +1,6 @@
+rootProject.name = "GE Libraries"
+include ':app'
+include ':Dialogs'
+include ':Widgets'
+include ':Graphics'
+include ':Async'

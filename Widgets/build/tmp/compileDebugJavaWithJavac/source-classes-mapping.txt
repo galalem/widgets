@@ -1,4 +1,0 @@
-com/galalem/widgets/BuildConfig.java
- com.galalem.widgets.BuildConfig
-com/galalem/widgets/Button.java
- com.galalem.widgets.Button
